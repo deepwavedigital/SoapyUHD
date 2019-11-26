@@ -1,3 +1,11 @@
+soapyuhd (0.3.6-1deepwave1) UNRELEASED; urgency=low
+
+  * Repackage to build as a module for SoapySDR 0.6.1
+    as released with Ubuntu 18.04 instead of the newer
+    SoapySDR 0.7.x release series.
+
+ -- Dan Bryant <dan@deepwavedigital.com>  Tue, 26 Nov 2019 15:47:04 -0500
+
 soapyuhd (0.3.6-1) unstable; urgency=low
 
   * Release 0.3.6 (2019-06-22)
